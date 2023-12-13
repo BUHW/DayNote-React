@@ -1,0 +1,7 @@
+#Ignorados
+
+#pasta do node modules
+/node_modules
+
+#arquivos package
+/package-lock.json
