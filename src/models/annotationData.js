@@ -6,4 +6,4 @@ const AnnotationDataSchema = new mongoose.Schema({
     priority: Boolean,
 });
 
-module.exports = mongoose.model('Annotetions', AnnotationDataSchema);
+module.exports = mongoose.model('/annotetions', AnnotationDataSchema);
